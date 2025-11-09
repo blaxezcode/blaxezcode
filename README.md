@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joker-pyc&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=blaxezcode&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -16,13 +16,13 @@
   <a href="https://www.linkedin.com/in/santosh-maurya-700630215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://joker-pyc.github.io/Portfolio/" target="_blank">
+  <a href="https://blaxezcode.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:santoshmouriya1234567890@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/joker-pyc" target="_blank">
+  <a href="https://github.com/blaxezcode" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -30,13 +30,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joker-pyc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joker-pyc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f0f6fc&currStreakLabel=58a6ff" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blaxezcode&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blaxezcode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f0f6fc&currStreakLabel=58a6ff" alt="GitHub Streak" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joker-pyc&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joker-pyc&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0f6fc&area=true&hide_border=true" alt="Contribution Graph" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaxezcode&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blaxezcode&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0f6fc&area=true&hide_border=true" alt="Contribution Graph" width="49%" />
 </div>
 
 ## 🎯 About Me
@@ -150,12 +150,12 @@ Mission: "Democratizing technology through open-source contributions"
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joker-pyc&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blaxezcode&theme=github_dark" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joker-pyc&theme=github_dark" alt="Repos per Language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joker-pyc&theme=github_dark" alt="Most Commit Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blaxezcode&theme=github_dark" alt="Repos per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blaxezcode&theme=github_dark" alt="Most Commit Language" width="49%" />
 </div>
 
 ## 🎯 Current Goals & Focus
@@ -190,7 +190,7 @@ I'm always excited to work on innovative projects that push technological bounda
   <a href="mailto:santoshmouriya1234567890@gmail.com">
     <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://joker-pyc.github.io/Portfolio/">
+  <a href="https://blaxezcode.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -203,7 +203,7 @@ I'm always excited to work on innovative projects that push technological bounda
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=joker-pyc&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/joker-pyc?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=blaxezcode&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/blaxezcode?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="GitHub Followers" />
 
 </div>
